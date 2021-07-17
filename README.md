@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Hubert Daniszewski, this is my GitHub account, which I started during my studies in PJATK. Here I'm posting my school assignments as well as personal projects.
+- 👀 I’m interested in machine learning and image processing.
+- 🌱 I’m currently learning PHP and Java Spring, as I haven't had much experience with them so far and they might prove useful to me in the future.
